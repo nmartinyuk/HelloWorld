@@ -1,4 +1,5 @@
          Text editor.
+<<<<<<< HEAD
 Learning process.	 
 =======
  В каком файле команда ведет обсуждение кода.
@@ -6,3 +7,6 @@ Learning process.
 
  Вносить текст - режим INSERT:  engl 'i';
  Выход из редактора - последовательно 'Esc',':', 'w','q','Enter'.
+=======
+Learning process.	 
+>>>>>>> 561cf81d6ef4887fc4aa452f54a6e48b5cb2559f
